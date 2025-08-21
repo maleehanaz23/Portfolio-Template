@@ -1,3 +1,3 @@
 # Portfolio-Template
 
-Portfolio Design with HTML, CSS, JavaScript
+Responsive Portfolio Design with HTML, CSS, JavaScript
